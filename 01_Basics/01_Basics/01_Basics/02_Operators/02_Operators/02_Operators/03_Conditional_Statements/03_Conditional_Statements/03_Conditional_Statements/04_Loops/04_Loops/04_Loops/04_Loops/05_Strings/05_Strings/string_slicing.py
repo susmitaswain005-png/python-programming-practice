@@ -1,0 +1,9 @@
+name = "Susmita Swain"
+
+print(name[0])
+print(name[1])
+print(name[0:7])
+print(name[8:13])
+print(name[:7])
+print(name[8:])
+print(name[::-1])
